@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ishwar Hegde</h1>
-<h3 align="center">A passionate Bioinformatician</h3>
+<h3 align="center">Passionate Bioinformatician | Data Science Enthusiast</h3>
 
-- 🌱 I’m currently learning **NLP**
-
-- 📫 Contact **ishwaregde10@gmail.com**
+- 🌱 Currently exploring **Natural Language Processing (NLP)** techniques to advance research in **Genomics** and **Bioinformatics**.
+- 💡 Interested in leveraging computational tools to unlock insights from genomic data.
+- 📫 Feel free to reach out via email: [ishwaregde10@gmail.com](mailto:ishwaregde10@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
